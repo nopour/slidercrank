@@ -6,3 +6,6 @@ The slider-crank mechanism is used in several engineering applications, such as 
 
 
 ![Lab_logo](https://user-images.githubusercontent.com/81474289/165713776-0fc29448-8d39-42b9-828c-87db2b632684.jpg)
+
+# Contact
+Send any queries to Reza Nopour (rezanopour@gmail.com).
