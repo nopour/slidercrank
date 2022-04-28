@@ -7,5 +7,13 @@ The slider-crank mechanism is used in several engineering applications, such as 
 
 ![Lab_logo](https://user-images.githubusercontent.com/81474289/165713776-0fc29448-8d39-42b9-828c-87db2b632684.jpg)
 
+
+# Results
+Coordinate of the slider block for rigid and flexible links
+
+![2022-04-28_17h44_38](https://user-images.githubusercontent.com/81474289/165760398-25ec6cca-f8ec-425c-846f-877e128c2876.jpg)
+
+
+
 # Contact
 Send any queries to Reza Nopour (rezanopour@gmail.com).
