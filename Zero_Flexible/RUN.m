@@ -127,15 +127,15 @@ ER_EM=(E_EM-E_EM(1))/E_EM(1);
 ER_GM=(E_GM-E_GM(1))/E_GM(1);
 
 %%
-figure
-hold on; grid on
-plot(timeSpan,ER_IM,'r-')
-plot(timeSpan,ER_AM,'g-')
-plot(timeSpan,ER_EM,'b-')
-plot(timeSpan,ER_GM,'k-')
-legend('IM','AM','EM','GM')
-xlabel('time(s)')
-title('Mechanical Energy Error')
+%figure
+%hold on; grid on
+%plot(timeSpan,ER_IM,'r-')
+%plot(timeSpan,ER_AM,'g-')
+%plot(timeSpan,ER_EM,'b-')
+%plot(timeSpan,ER_GM,'k-')
+%legend('IM','AM','EM','GM')
+%xlabel('time(s)')
+%title('Mechanical Energy Error')
 
 figure
 hold on; grid on
